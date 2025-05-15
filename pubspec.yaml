@@ -1,0 +1,23 @@
+name: app2
+description: A sample Flutter application.
+version: 0.0.1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  args: ^2.5.0
+  async: ^2.12.0
+  http: ^0.13.5
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints: ^5.0.0
+  test: ^1.24.0
+
+flutter:
+  uses-material-design: true
+
+
